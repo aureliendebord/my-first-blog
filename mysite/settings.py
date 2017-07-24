@@ -25,7 +25,7 @@ SECRET_KEY = 'o#dns^ya$c#r)&n$^98pk_3*2zjuy_#n6xy-9e&4_60nqhvh$4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [aureliendebord.pythonanywhere.com]
 
 
 # Application definition
